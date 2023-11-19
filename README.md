@@ -14,3 +14,8 @@ Let's GO
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
 
 This quote, often attributed to Martin Golding, emphasizes the importance of writing clean, well-structured, and easily understandable code. It's not just about making your own life easier when you have to revisit your code in the future, but also about being considerate of your colleagues or anyone else who may have to work with your code. By following this advice, you can help ensure that your code is maintainable, scalable, and less prone to bugs and errors.
+
+# 2023-11-19
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote, often attributed to Martin Golding, emphasizes the importance of writing clear, well-structured, and easily understandable code. It's not only about making your own life easier when you have to revisit your code in the future but also about showing respect and consideration for your colleagues who may have to work with your code. By following this advice, you can help prevent frustration and misunderstandings, and make collaboration smoother and more efficient.
