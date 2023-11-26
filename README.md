@@ -45,3 +45,9 @@ Next, use tools and resources to help manage your workflow. For example, using v
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By using task management tools, such as Trello or Asana, you can keep track of your progress and make sure you don't get sidetracked.
 
 Remember to take breaks throughout the day to avoid burnout and to keep your mind fresh. Additionally, don’t be afraid to ask for help when you need it. There is always someone who can offer guidance or share their knowledge, whether it' s a coworker, friend, or online community. Learning from others and growing your skillset is an essential part of becoming a successful programmer.
+
+# 2023-11-26
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential for programmers to constantly update their knowledge and skills. This means staying up-to-date with the latest trends and technologies, such as artificial intelligence, machine learning, and the internet of things.
+
+To become a successful programmer, one must also develop excellent communication and problem-solving skills, as these are crucial for working with teammates and addressing the challenges that arise during project development. It is also important to have a solid foundation in core programming languages, like Python, Java, or JavaScript, which can be applied to various projects and industries. Additionally, learning about version control systems, including Git, is a must-have skill for any programmer. 
+ 学习新技能，如人工智能、机器学习和物联网等。 培养良好的沟通和解决问题的能力。掌握核心编程语言，例如Python、Java或JavaScript。学习版本控制系统，比如Git。
