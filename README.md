@@ -80,3 +80,8 @@ This quote humorously highlights the ongoing challenge that programmers face in 
 
 # 2023-12-05
 - Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge to stay current in the ever-evolving field of technology. Embrace collaboration, as working together with others can lead to more innovative solutions and a stronger understanding of different perspectives. Don't be afraid to ask for help, whether it' s from a colleague, a mentor, or a search engine. Remember that code is a tool, not the end goal, and always keep your eyes on the bigger picture to ensure your work serves a purpose. Finally, take pride in your craft and enjoy the journey, because programming is an incredibly rewarding and exciting field to explore.
+
+# 2023-12-06
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that while optimizing code for performance can be important, it should not be done prematurely. It's better to write clear and maintainable code first, and only optimize when necessary, based on profiling and measurements. Focusing too much on optimization early on can lead to complex and hard-to-maintain code, which can cause more problems in the long run.
