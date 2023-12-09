@@ -93,3 +93,6 @@ This quote reminds us that while optimizing code for performance can be importan
 - "Premature optimization is the root of all evil" - Donald Knuth. 
 
 As a programmer, it's easy to get caught up in trying to optimize your code before it's even necessary. However, this can often lead to overly complex and difficult-to-maintain code. Instead, focus on writing clear and simple code that gets the job done first. Only optimize when you have identified a performance bottleneck through profiling or other means.
+
+# 2023-12-09
+- Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that when writing software, it's important to focus on simplicity and modularity, rather than trying to anticipate all possible future use cases. By keeping your codebase lean and flexible, you'll be better equipped to handle changing requirements and avoid technical debt down the line.
