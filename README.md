@@ -96,3 +96,8 @@ As a programmer, it's easy to get caught up in trying to optimize your code befo
 
 # 2023-12-09
 - Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that when writing software, it's important to focus on simplicity and modularity, rather than trying to anticipate all possible future use cases. By keeping your codebase lean and flexible, you'll be better equipped to handle changing requirements and avoid technical debt down the line.
+
+# 2023-12-10
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that while optimizing code for efficiency is important, it should not be done prematurely or without careful consideration. It's better to write clear and maintainable code first, and then optimize only where necessary. Focusing too much on optimization early on can lead to overly complex code, harder maintenance, and ultimately, more bugs.
