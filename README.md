@@ -130,3 +130,9 @@ Secondly, planning ahead is crucial. Before beginning a new project or task, tak
 
 # 2023-12-16
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to keep your code organized and easy to maintain. Remember to take breaks and keep learning new skills to stay ahead in the ever-changing world of programming.
+
+# 2023-12-17
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to keep you organized and on track with your goals. 
+ 3. Finally, stay organize. Use tools like task managers, calendars, note-taking apps, etc. to help keep track of your progress and make sure you don't lose track. Organizing will not only help with efficiency but also reduce stress and improve your overall work-life balance.
