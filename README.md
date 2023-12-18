@@ -136,3 +136,6 @@ Secondly, planning ahead is crucial. Before beginning a new project or task, tak
 
 Second, planning ahead is crucial. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think about potential obstacles and challenges, so you're better prepared to tackle them. It will also help to keep you organized and on track with your goals. 
  3. Finally, stay organize. Use tools like task managers, calendars, note-taking apps, etc. to help keep track of your progress and make sure you don't lose track. Organizing will not only help with efficiency but also reduce stress and improve your overall work-life balance.
+
+# 2023-12-18
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. This quote reminds us that optimizing code before it's necessary can lead to unnecessary complexity, bugs, and wasted time. It's better to write clear, simple code first and optimize only when needed.
