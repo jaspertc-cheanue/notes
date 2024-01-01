@@ -191,3 +191,6 @@ Second, planning ahead is crucial for success. Think about the bigger picture an
 
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
  .Secondly, wisely plan you time. Time management is crucial for programmers. Use tools like Trello, Todoist, or Google Calendar to plan and schedule your work. Allocate time for breaks and downtime, as this helps with productivity and creativity. Also, avoid multitasking as much as possible, because it can lead to decreased efficiency and quality of work - focus on one task at a time and give it your undivided attention. Finally, set realistic deadlines for yourself and stick to them. Over-commitment can cause stress and burnout, so be sure to stay within your comfort zone.
+
+# 2024-01-01
+- "Keep it simple, stupid!"
