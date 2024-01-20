@@ -275,3 +275,10 @@ To stay ahead of the curve, it' s essential to read and study industry blogs, ar
 
 # 2024-01-19
 - "Keep it simple, stupid!"
+
+# 2024-01-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your work, you can ensure that you focus on the most critical aspects of the project and make better use of your time. You can use techniques such as the MoSCoW method (Must have, Should have and Could have) to categorize your task list. Must have tasks should be done first, while Should haves and Should not hares can wait. 
+ 其次，提前计划。在开始一个项目之前，确保你了解所有需要完成的任务。创建一个详细的计划，包括任务分配、截止日期和预期结果。这将帮助你在项目进行过程中保持专注，并确保你不会错过任何重要的步骤。使用项目管理工具，如Trello或Asana，可以帮助你更好地组织和跟踪你的任务。
+ 最后，保持组织。一个干净、有组织的代码库是提高编程效率的关键。定期整理你的代码，删除不再需要的文件，更新注释，以确保你的项目始终保持最佳状态。此外，使用版本控制系统，如同为SourceTree或Git，可以帮助你轻松地跟踪更改并在需要时回滚到之前的版本。
