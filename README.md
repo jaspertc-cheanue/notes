@@ -309,3 +309,10 @@ This quote by computer scientist Donald Knuth reminds us that trying to optimize
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. 
 
 In the context of coding, this quote reminds us that while solving complex problems, strive for clear, concise, and maintainable code. It’s easy to write complicated code; the challenge lies in keeping it simple. A well-designed system or a neatly written function demonstrates a deep understanding of the problem domain and often leads to fewer bugs, easier debugging, and better scalability. Remember, code is read far more than it is written, so prioritize readability and elegance over unnecessary complexity."
+
+# 2024-01-28
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will provide a solid foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ - 了解最新技术、工具和编程语言。
+- 对基本原理有深入理解，如数据结构、算法、计算机架构、操作系统等。
