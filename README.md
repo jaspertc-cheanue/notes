@@ -529,3 +529,8 @@ Planning ahead is essential to avoid last-minute panic and ensure your projects 
 
 # 2024-03-15
 - "Keep it simple, stupid!"
+
+# 2024-03-17
+- Today's programming wisdom: "Code is read far more often than it's written. Strive to make it clear and maintainable, not just clever and concise." 
+
+In other words, while efficiency and brevity are important in programming, always prioritize writing code that can be easily understood and modified by others (including your future self). This involves using descriptive variable names, commenting effectively, adhering to consistent style guidelines, and employing design patterns that promote readability and modularity. Remember, the true cost of software often lies in its maintenance, so invest time in crafting code that's easy to comprehend and debug.
